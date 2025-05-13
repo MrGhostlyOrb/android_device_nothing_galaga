@@ -1,0 +1,3 @@
+add_lunch_combo lineage_galaga-user
+add_lunch_combo lineage_galaga-userdebug
+add_lunch_combo lineage_galaga-eng
